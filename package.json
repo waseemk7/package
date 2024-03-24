@@ -1,0 +1,25 @@
+{
+  "name": "wakanda-functions",
+  "version": "1.0.0",
+  "description": "Introducing 'wakanda-functions' - the npm package so powerful, it's only useful in Wakanda! From vibranium-infused algorithms to panther-approved utilities, unleash the magic of Wakanda with every 'npm install'. Remember, Wakanda forever!",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "",
+  "repository": {},
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "wakanda",
+    "universe",
+    "marvel",
+    "test"
+  ],
+  "author": "waseemk7",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.3"
+  }
+}
