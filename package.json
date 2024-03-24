@@ -5,8 +5,10 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "homepage": "",
-  "repository": {},
+  "homepage": "https://github.com/waseemk7/package",
+  "repository": {
+    "url": "https://github.com/waseemk7/package"
+  },
   "scripts": {
     "build": "tsup"
   },
